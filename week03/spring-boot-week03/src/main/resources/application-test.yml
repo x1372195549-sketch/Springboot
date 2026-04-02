@@ -1,0 +1,15 @@
+server:
+  port: 8083
+  servlet:
+  # 设置路径
+    context-path: /api
+
+spring:
+  application:
+    name: 测试环境
+
+ # 自定义
+app:
+  name: 企业后台管理系统
+  version: 2.0.0
+  description: Spring Boot 3.5.11 实战项目
